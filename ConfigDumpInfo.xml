@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.21">
+	<ConfigVersions>
+		<Metadata name="Catalog.Контрагенты" id="7a0344ff-6968-407e-83f8-d30b47a4e95d" configVersion="9c452f49dbfe404a9db357f122e6297200000000">
+			<Metadata name="Catalog.Контрагенты.Attribute.КПП" id="a96a0d14-b7ef-4401-af9a-3e1195423b32"/>
+			<Metadata name="Catalog.Контрагенты.Attribute.ИНН" id="f0244a7c-2e9e-4bb4-b79c-5f7453a3de7b"/>
+		</Metadata>
+		<Metadata name="Catalog.Контрагенты.AdditionalIndexes" id="7a0344ff-6968-407e-83f8-d30b47a4e95d.1d" configVersion="8d1176f59087ea44a481bccc59a92fa800000000"/>
+		<Metadata name="Catalog.Контрагенты.Help" id="7a0344ff-6968-407e-83f8-d30b47a4e95d.1" configVersion="45b4af8fd8ebac47a66ebc0c13a52c1000000000"/>
+		<Metadata name="Catalog.Контрагенты.ManagerModule" id="7a0344ff-6968-407e-83f8-d30b47a4e95d.3" configVersion="aa0609e41646e14e875f32b9aef0033f00000000"/>
+		<Metadata name="Catalog.Контрагенты.ObjectModule" id="7a0344ff-6968-407e-83f8-d30b47a4e95d.0" configVersion="046fe49af44be04990d415d6e469eb7a00000000"/>
+		<Metadata name="Catalog.Контрагенты.Predefined" id="7a0344ff-6968-407e-83f8-d30b47a4e95d.1c" configVersion="38a44d913c89d94fb94b0b629ab90a9600000000"/>
+		<Metadata name="Catalog.Номенклатура" id="f66821f0-9f8e-4df4-a1a5-79c01fd27371" configVersion="9bb810a9b66c6046babde94fcff90b1500000000">
+			<Metadata name="Catalog.Номенклатура.Attribute.Комментарий" id="9add4b63-f692-460e-b7d1-9d6e9cf2d678"/>
+			<Metadata name="Catalog.Номенклатура.Attribute.Цена" id="b7b1047c-9215-46c6-82bc-b7582c9484e2"/>
+			<Metadata name="Catalog.Номенклатура.Attribute.Артикул" id="ed0a1642-62e5-4964-82f8-f09c3ae05b5f"/>
+		</Metadata>
+		<Metadata name="Catalog.Номенклатура.AdditionalIndexes" id="f66821f0-9f8e-4df4-a1a5-79c01fd27371.1d" configVersion="1ee6aebe91fbd54d863184eac41123e900000000"/>
+		<Metadata name="Catalog.Номенклатура.Help" id="f66821f0-9f8e-4df4-a1a5-79c01fd27371.1" configVersion="f92756d25eb598489d9fa44786764dea00000000"/>
+		<Metadata name="Catalog.Номенклатура.ManagerModule" id="f66821f0-9f8e-4df4-a1a5-79c01fd27371.3" configVersion="4e57ab6f1522e94d87eee048d833f5eb00000000"/>
+		<Metadata name="Catalog.Номенклатура.ObjectModule" id="f66821f0-9f8e-4df4-a1a5-79c01fd27371.0" configVersion="380e604ffc792243b8e84e4d58a5d1e700000000"/>
+		<Metadata name="Catalog.Номенклатура.Predefined" id="f66821f0-9f8e-4df4-a1a5-79c01fd27371.1c" configVersion="d986d8e58d530249841abae96adc4d7700000000"/>
+		<Metadata name="CommonModule.ДлительныеОперации" id="89eb715b-6501-4d12-8e11-02d388395736" configVersion="e0f332faedbffe44b6b94ef43a86c0fa00000000"/>
+		<Metadata name="CommonModule.ДлительныеОперации.Module" id="89eb715b-6501-4d12-8e11-02d388395736.0" configVersion="9ac330bfe6b9f8499361b6395a54e75b00000000"/>
+		<Metadata name="CommonModule.ДлительныеОперацииВызовСервера" id="b3d50609-55bc-458e-a94a-9634f143fa26" configVersion="e49532f2e120e847bcb95b9eb158f2e700000000"/>
+		<Metadata name="CommonModule.ДлительныеОперацииВызовСервера.Module" id="b3d50609-55bc-458e-a94a-9634f143fa26.0" configVersion="49c48de00e0275488a85630e56df136600000000"/>
+		<Metadata name="CommonModule.ДлительныеОперацииГлобальный" id="b6f3e011-a3ad-4281-a031-475c76558945" configVersion="29093f581f3dd64dae2b800437f67a9700000000"/>
+		<Metadata name="CommonModule.ДлительныеОперацииГлобальный.Module" id="b6f3e011-a3ad-4281-a031-475c76558945.0" configVersion="b3035316222686418eeb16f1538b52a800000000"/>
+		<Metadata name="CommonModule.ДлительныеОперацииКлиент" id="0c041c01-4316-441a-a8a2-22e63c7b7c7f" configVersion="b111ed351a107f4fb0b4b87d9e4fd02f00000000"/>
+		<Metadata name="CommonModule.ДлительныеОперацииКлиент.Module" id="0c041c01-4316-441a-a8a2-22e63c7b7c7f.0" configVersion="d3faa1319343324d838fec69b51cd4f100000000"/>
+		<Metadata name="CommonModule.ЖурналРегистрации" id="fba01df8-62ac-4b18-a163-80791fd90983" configVersion="ac15325c6680c4428db199dede8944de00000000"/>
+		<Metadata name="CommonModule.ЖурналРегистрации.Module" id="fba01df8-62ac-4b18-a163-80791fd90983.0" configVersion="ef3a9eb428aa3d42a58938a39d37c55700000000"/>
+		<Metadata name="CommonModule.ЖурналРегистрацииВызовСервера" id="c2734edd-9162-483a-af16-d67267568d4c" configVersion="f5babc5b6a42ca4fa7daebe2a4365b4300000000"/>
+		<Metadata name="CommonModule.ЖурналРегистрацииВызовСервера.Module" id="c2734edd-9162-483a-af16-d67267568d4c.0" configVersion="b01eb5eb37ba5845bcbd14db62ac345e00000000"/>
+		<Metadata name="CommonModule.ЖурналРегистрацииКлиент" id="b102930a-e84e-46fc-b11d-dd9c5b83ccb7" configVersion="235b107c830468458851e7d8415203c100000000"/>
+		<Metadata name="CommonModule.ЖурналРегистрацииКлиент.Module" id="b102930a-e84e-46fc-b11d-dd9c5b83ccb7.0" configVersion="9806b79846e8f04887c6d1163153c90b00000000"/>
+		<Metadata name="CommonModule.ИнтеграцияRabbitMQСервер" id="0c62e111-22de-44de-91a6-eddc2f6d1e0f" configVersion="22d2d2f4a8f00242b4dcba953ee61bff00000000"/>
+		<Metadata name="CommonModule.ИнтеграцияRabbitMQСервер.Module" id="0c62e111-22de-44de-91a6-eddc2f6d1e0f.0" configVersion="c3f1acfa9a30b14c88a13eee246c4c9d00000000"/>
+		<Metadata name="CommonModule.ИнтеграцияПодсистемБСП" id="a26fbe89-8049-402d-8e0e-ec29a87e5a59" configVersion="7506af6e6298dc4e9c554e3c4f98c9ba00000000"/>
+		<Metadata name="CommonModule.ИнтеграцияПодсистемБСП.Module" id="a26fbe89-8049-402d-8e0e-ec29a87e5a59.0" configVersion="568f62ab6eddeb43be20f8138d0b4c9800000000"/>
+		<Metadata name="CommonModule.ИнтеграцияПодсистемБСПКлиент" id="acd7ab97-d977-4cde-beb8-2d023aed16af" configVersion="67dadea59f3b6949805b741ec443b08a00000000"/>
+		<Metadata name="CommonModule.ИнтеграцияПодсистемБСПКлиент.Module" id="acd7ab97-d977-4cde-beb8-2d023aed16af.0" configVersion="231483cf51c6c646b6326962ba282ffd00000000"/>
+		<Metadata name="CommonModule.ЛогированиеПриложений" id="acf38bce-3426-484b-b527-568bf911d749" configVersion="8fe9a519d5c823439ec5ec5d233ecd8800000000"/>
+		<Metadata name="CommonModule.ЛогированиеПриложений.Module" id="acf38bce-3426-484b-b527-568bf911d749.0" configVersion="c48d33f442347447b8ed8bc3e3d0168700000000"/>
+		<Metadata name="CommonModule.ЛогированиеСервер" id="516c6a8a-7137-4157-9be6-8de1cce898db" configVersion="cb9f3a2ececdb2499faadda8ab51c7ec00000000"/>
+		<Metadata name="CommonModule.ЛогированиеСервер.Module" id="516c6a8a-7137-4157-9be6-8de1cce898db.0" configVersion="1d91a3890362054fbdae5ce78c89070d00000000"/>
+		<Metadata name="CommonModule.ОбновлениеИнформационнойБазы" id="ca3adc5b-e8f8-4265-9eed-4434feb02fcc" configVersion="29f7163703fdd241a87e69b44db5d96600000000"/>
+		<Metadata name="CommonModule.ОбновлениеИнформационнойБазы.Module" id="ca3adc5b-e8f8-4265-9eed-4434feb02fcc.0" configVersion="f23b8dfe818e2b489c7e96d036572a4b00000000"/>
+		<Metadata name="CommonModule.ОбновлениеИнформационнойБазыВызовСервера" id="1bd7be4d-9a95-450a-8e66-a1ac04e1d764" configVersion="e9119aa9b9edbe4d8b94abb8923da57d00000000"/>
+		<Metadata name="CommonModule.ОбновлениеИнформационнойБазыВызовСервера.Module" id="1bd7be4d-9a95-450a-8e66-a1ac04e1d764.0" configVersion="4bfb265fd0ac9f479c82bcd8512bbd3d00000000"/>
+		<Metadata name="CommonModule.ОбновлениеИнформационнойБазыКлиент" id="f133363d-c01a-45ac-b033-ef3d3b9db08f" configVersion="cc318c694efc9742aaa1271e795925df00000000"/>
+		<Metadata name="CommonModule.ОбновлениеИнформационнойБазыКлиент.Module" id="f133363d-c01a-45ac-b033-ef3d3b9db08f.0" configVersion="41212dbee605d24daebd9a0d62aad7b400000000"/>
+		<Metadata name="CommonModule.ОбновлениеИнформационнойБазыКлиентПереопределяемый" id="ef087e94-6d9e-4e5f-aefe-075dfd6a8bbe" configVersion="2aee0fd6f1a5d84480692f54d96fcd3800000000"/>
+		<Metadata name="CommonModule.ОбновлениеИнформационнойБазыКлиентПереопределяемый.Module" id="ef087e94-6d9e-4e5f-aefe-075dfd6a8bbe.0" configVersion="42d2c52a269d1c479c08530fc74be3c500000000"/>
+		<Metadata name="CommonModule.ОбновлениеИнформационнойБазыПереопределяемый" id="d3841678-8bc8-4b73-b3f7-9e58f6ba6870" configVersion="91f735e5c816c147bb030b5553f4031200000000"/>
+		<Metadata name="CommonModule.ОбновлениеИнформационнойБазыПереопределяемый.Module" id="d3841678-8bc8-4b73-b3f7-9e58f6ba6870.0" configVersion="b5feee1ccb2b7046af66a23bba96044700000000"/>
+		<Metadata name="CommonModule.ОбновлениеИнформационнойБазыСлужебный" id="efcc3d2d-ada5-41ff-be15-f6eb7a09702f" configVersion="baaa9378f411c748b54743125a65bdb000000000"/>
+		<Metadata name="CommonModule.ОбновлениеИнформационнойБазыСлужебный.Module" id="efcc3d2d-ada5-41ff-be15-f6eb7a09702f.0" configVersion="ef0517f46ae38a4594084a58e4e290fd00000000"/>
+		<Metadata name="CommonModule.ОбновлениеИнформационнойБазыСлужебныйВМоделиСервиса" id="0e5ff652-937a-4f7e-a84d-f6b9b06c9276" configVersion="584a9810276ec440b6fec483f26607eb00000000"/>
+		<Metadata name="CommonModule.ОбновлениеИнформационнойБазыСлужебныйВМоделиСервиса.Module" id="0e5ff652-937a-4f7e-a84d-f6b9b06c9276.0" configVersion="e28228529222074c8878c6dcae8e862e00000000"/>
+		<Metadata name="CommonModule.ОбновлениеИнформационнойБазыСлужебныйВМоделиСервисаБТС" id="64808af6-7d48-4b11-b3ab-78a213667474" configVersion="f76345fb9dcd7943a41eea4e4476836000000000"/>
+		<Metadata name="CommonModule.ОбновлениеИнформационнойБазыСлужебныйВМоделиСервисаБТС.Module" id="64808af6-7d48-4b11-b3ab-78a213667474.0" configVersion="3cf8686bc1e6404e875148238435320200000000"/>
+		<Metadata name="CommonModule.ОбновлениеИнформационнойБазыСлужебныйВызовСервера" id="bed4a869-e2ef-4308-9d65-0d8cd0187825" configVersion="41d961734266ae4889d694b816d670bd00000000"/>
+		<Metadata name="CommonModule.ОбновлениеИнформационнойБазыСлужебныйВызовСервера.Module" id="bed4a869-e2ef-4308-9d65-0d8cd0187825.0" configVersion="350f55cfbce77f469dec084fe42639bb00000000"/>
+		<Metadata name="CommonModule.ОбновлениеИнформационнойБазыСлужебныйПовтИсп" id="858ba15c-724b-4104-8cf6-0c0183713ddb" configVersion="53c4a5d49aee68439dbbf073fee6becb00000000"/>
+		<Metadata name="CommonModule.ОбновлениеИнформационнойБазыСлужебныйПовтИсп.Module" id="858ba15c-724b-4104-8cf6-0c0183713ddb.0" configVersion="3bc5fb7adb42ec44b413f96018d3b3a700000000"/>
+		<Metadata name="CommonModule.ОбщегоНазначения" id="e080d69e-f75d-4505-806d-91a1c98a55be" configVersion="8d90283d7a097740906f3ae68971d23f00000000"/>
+		<Metadata name="CommonModule.ОбщегоНазначения.Module" id="e080d69e-f75d-4505-806d-91a1c98a55be.0" configVersion="76f13954f75230498c635084ce3f79dd00000000"/>
+		<Metadata name="CommonModule.ОбщегоНазначенияВызовСервера" id="2ef62cca-c749-49da-a56c-088a9c7443fb" configVersion="ef6a2811b0b7e945ac76a9e4a899855100000000"/>
+		<Metadata name="CommonModule.ОбщегоНазначенияВызовСервера.Module" id="2ef62cca-c749-49da-a56c-088a9c7443fb.0" configVersion="7fb2bfe6c1d33743b3b555a870b2e0ca00000000"/>
+		<Metadata name="CommonModule.ОбщегоНазначенияГлобальный" id="2321ddd2-c440-4ce3-9880-7d4ebab26855" configVersion="f6992919a2dece448aeeab659ccecfa900000000"/>
+		<Metadata name="CommonModule.ОбщегоНазначенияГлобальный.Module" id="2321ddd2-c440-4ce3-9880-7d4ebab26855.0" configVersion="c5e1c9bda9db644db4c86a54e5fb911800000000"/>
+		<Metadata name="CommonModule.ОбщегоНазначенияКлиент" id="dbab49ac-5fa0-43c5-8384-1428a03d6dee" configVersion="4646dde3646fc6458f40d7c96f4e884600000000"/>
+		<Metadata name="CommonModule.ОбщегоНазначенияКлиент.Module" id="dbab49ac-5fa0-43c5-8384-1428a03d6dee.0" configVersion="fa9e1f630fb0d3448b194f677663041900000000"/>
+		<Metadata name="CommonModule.ОбщегоНазначенияКлиентПереопределяемый" id="d6f33744-8402-4a28-85f4-e24112accb13" configVersion="5067da91280f4b4c8730a2671435da4500000000"/>
+		<Metadata name="CommonModule.ОбщегоНазначенияКлиентПереопределяемый.Module" id="d6f33744-8402-4a28-85f4-e24112accb13.0" configVersion="09d8a86a9a3fbe42b285ef4fc43ea9ee00000000"/>
+		<Metadata name="CommonModule.ОбщегоНазначенияКлиентПовтИсп" id="1ec1b19e-3f52-40c1-a646-90b00fe0559a" configVersion="80110bee5d1e5a41bef966b35c8e943c00000000"/>
+		<Metadata name="CommonModule.ОбщегоНазначенияКлиентПовтИсп.Module" id="1ec1b19e-3f52-40c1-a646-90b00fe0559a.0" configVersion="8ef670e0d1eea24d84097295affe5dbf00000000"/>
+		<Metadata name="CommonModule.ОбщегоНазначенияКлиентСервер" id="4dc8c033-7a34-44ed-a358-6c5e0c963b8d" configVersion="b69f8acd62265f4b8b8d789a45c6840100000000"/>
+		<Metadata name="CommonModule.ОбщегоНазначенияКлиентСервер.Module" id="4dc8c033-7a34-44ed-a358-6c5e0c963b8d.0" configVersion="fdda06d1ea76e24aac1a850473287ef400000000"/>
+		<Metadata name="CommonModule.ОбщегоНазначенияПереопределяемый" id="a98dfc8d-2c58-463e-ac94-32f6eb7c71f3" configVersion="8bdfab947304334f8d394d9ae7e2303e00000000"/>
+		<Metadata name="CommonModule.ОбщегоНазначенияПереопределяемый.Module" id="a98dfc8d-2c58-463e-ac94-32f6eb7c71f3.0" configVersion="448085233f3e3b43a2525c2b51fc37a600000000"/>
+		<Metadata name="CommonModule.ОбщегоНазначенияПовтИсп" id="406031ce-42a8-47e4-b031-01faaa1bb48b" configVersion="dc324e6aec100143ab81e93b7eca637e00000000"/>
+		<Metadata name="CommonModule.ОбщегоНазначенияПовтИсп.Module" id="406031ce-42a8-47e4-b031-01faaa1bb48b.0" configVersion="96007e4beb258a4cba40658bb4ef170800000000"/>
+		<Metadata name="CommonModule.ОбщегоНазначенияСлужебныйКлиент" id="c4ad6be0-8077-4a57-b8d7-cfda06c99a26" configVersion="68851a12e76a8a4d83377895b9a98c9d00000000"/>
+		<Metadata name="CommonModule.ОбщегоНазначенияСлужебныйКлиент.Module" id="c4ad6be0-8077-4a57-b8d7-cfda06c99a26.0" configVersion="385fe30ca42aaf43be7e7124c03962e600000000"/>
+		<Metadata name="CommonModule.ПодсистемыКонфигурацииПереопределяемый" id="9b1920dc-36e7-4553-877d-d2591997cfb6" configVersion="bb6b69e510a9e1499ded124417ff9bf300000000"/>
+		<Metadata name="CommonModule.ПодсистемыКонфигурацииПереопределяемый.Module" id="9b1920dc-36e7-4553-877d-d2591997cfb6.0" configVersion="dbe9cdc547d8b44db47a453ebfbe90ef00000000"/>
+		<Metadata name="CommonModule.Пользователи" id="7fcf35a0-a70c-49c0-9a43-6399c5cc1957" configVersion="9d915d55725baa45ac21f1632ef0282b00000000"/>
+		<Metadata name="CommonModule.Пользователи.Module" id="7fcf35a0-a70c-49c0-9a43-6399c5cc1957.0" configVersion="b835c0fbe98e5d4983f3106d37175a8800000000"/>
+		<Metadata name="CommonModule.ПользователиКлиентСервер" id="ccfa96d1-866f-4da7-a016-7048afe96235" configVersion="47cd086e3f7f6c4aa65771f63e10c66800000000"/>
+		<Metadata name="CommonModule.ПользователиКлиентСервер.Module" id="ccfa96d1-866f-4da7-a016-7048afe96235.0" configVersion="60108eb7023f6a4a9e6c86c290f8594d00000000"/>
+		<Metadata name="CommonModule.ПользователиПереопределяемый" id="e4693cd4-1813-429f-9227-7b88fbc4cd98" configVersion="e6e60a48118a8a41b83acb1e066c71dd00000000"/>
+		<Metadata name="CommonModule.ПользователиПереопределяемый.Module" id="e4693cd4-1813-429f-9227-7b88fbc4cd98.0" configVersion="6ea994fbe850874aaf6eeccd8ddb34ac00000000"/>
+		<Metadata name="CommonModule.ПользователиСлужебный" id="951ff75d-7295-4281-abb0-ec61dcc99389" configVersion="2a14b3f30012974192d6dea6e4d54dad00000000"/>
+		<Metadata name="CommonModule.ПользователиСлужебный.Module" id="951ff75d-7295-4281-abb0-ec61dcc99389.0" configVersion="fc7f5ec46df82a42a7423df5e61003ab00000000"/>
+		<Metadata name="CommonModule.ПользователиСлужебныйВызовСервера" id="7e8f07ab-32b0-4e32-a934-84d2b7da551b" configVersion="2b90e63c18c5a449b9528dcf231d546000000000"/>
+		<Metadata name="CommonModule.ПользователиСлужебныйВызовСервера.Module" id="7e8f07ab-32b0-4e32-a934-84d2b7da551b.0" configVersion="a1d5ef5fce4c884c90db18e9ceeaa82b00000000"/>
+		<Metadata name="CommonModule.ПользователиСлужебныйКлиент" id="2d7da661-2b50-47c2-bfd2-5e2f18a72221" configVersion="fe9e5da75f0f6f4abc5d256edeb3f2cc00000000"/>
+		<Metadata name="CommonModule.ПользователиСлужебныйКлиент.Module" id="2d7da661-2b50-47c2-bfd2-5e2f18a72221.0" configVersion="a7139936e0c06645bdefecc8ee5188d300000000"/>
+		<Metadata name="CommonModule.ПользователиСлужебныйКлиентСервер" id="58444ec9-90a3-4672-9ec5-3e39c0a3dee5" configVersion="8f07b2f9fae03e4695ce71bcc71e2acb00000000"/>
+		<Metadata name="CommonModule.ПользователиСлужебныйКлиентСервер.Module" id="58444ec9-90a3-4672-9ec5-3e39c0a3dee5.0" configVersion="e3247466fb556a41aac2af1f0eb442c100000000"/>
+		<Metadata name="CommonModule.ПользователиСлужебныйПовтИсп" id="84ce52cd-1118-492d-81b7-0e58f5b1a88c" configVersion="343d33e8adba1e44b74cc467caa4d89200000000"/>
+		<Metadata name="CommonModule.ПользователиСлужебныйПовтИсп.Module" id="84ce52cd-1118-492d-81b7-0e58f5b1a88c.0" configVersion="52070f2dc0596e429f3b190bd01953e700000000"/>
+		<Metadata name="CommonModule.РаботаВБезопасномРежиме" id="5e82409a-5068-4831-8013-9f3b57a0c627" configVersion="cb1dc02a19539546857276f38e4fa44600000000"/>
+		<Metadata name="CommonModule.РаботаВБезопасномРежиме.Module" id="5e82409a-5068-4831-8013-9f3b57a0c627.0" configVersion="f721e6781ad7a548ace9cddeba3ce26100000000"/>
+		<Metadata name="CommonModule.РаботаВБезопасномРежимеКлиент" id="b4dfb95d-f583-4904-827b-6467e0e84237" configVersion="a845d36a4dacad4995f9b873dff6ad2300000000"/>
+		<Metadata name="CommonModule.РаботаВБезопасномРежимеКлиент.Module" id="b4dfb95d-f583-4904-827b-6467e0e84237.0" configVersion="b9df574ad978764ba2450b9d0d6da12d00000000"/>
+		<Metadata name="CommonModule.РаботаВБезопасномРежимеКлиентПереопределяемый" id="5ef4bb50-98d9-49a5-bc46-b73ae05f238c" configVersion="f8ebc2b9ee18ad4593264ac4e555d95f00000000"/>
+		<Metadata name="CommonModule.РаботаВБезопасномРежимеКлиентПереопределяемый.Module" id="5ef4bb50-98d9-49a5-bc46-b73ae05f238c.0" configVersion="61393d141b76f24e997d86e6d588e66600000000"/>
+		<Metadata name="CommonModule.РаботаВБезопасномРежимеПереопределяемый" id="44a95b0e-5123-4ab1-8e0d-368dfa2d2f85" configVersion="f5bada9b1a83e04a825839b1b4a73a5d00000000"/>
+		<Metadata name="CommonModule.РаботаВБезопасномРежимеПереопределяемый.Module" id="44a95b0e-5123-4ab1-8e0d-368dfa2d2f85.0" configVersion="8da0a295e2aa1143b5453a832573624900000000"/>
+		<Metadata name="CommonModule.РаботаВБезопасномРежимеСлужебный" id="ec96d985-6771-4dc2-a4d6-31b4cc979235" configVersion="655aa24ff5487a48b6605688f7ed970000000000"/>
+		<Metadata name="CommonModule.РаботаВБезопасномРежимеСлужебный.Module" id="ec96d985-6771-4dc2-a4d6-31b4cc979235.0" configVersion="e7e8b2f4aa123c4481d16a12087de75000000000"/>
+		<Metadata name="CommonModule.РаботаВБезопасномРежимеСлужебныйВМоделиСервиса" id="25939286-3d91-4cd3-a985-31fc46efa485" configVersion="f1d745a192e4684aac97e2efd038e86a00000000"/>
+		<Metadata name="CommonModule.РаботаВБезопасномРежимеСлужебныйВМоделиСервиса.Module" id="25939286-3d91-4cd3-a985-31fc46efa485.0" configVersion="94609bc7239e6947a4e017e9aaa28d6c00000000"/>
+		<Metadata name="CommonModule.РегламентныеЗаданияКлиент" id="f8b5b52c-3d8b-49d4-9a18-dffd780e645f" configVersion="4f26e172c2dd7142b0742ad55776fb5300000000"/>
+		<Metadata name="CommonModule.РегламентныеЗаданияКлиент.Module" id="f8b5b52c-3d8b-49d4-9a18-dffd780e645f.0" configVersion="4bd5d3c3ffeb4049a71d787e5a695b7f00000000"/>
+		<Metadata name="CommonModule.РегламентныеЗаданияПереопределяемый" id="ba6227ce-4e58-4bf3-8e14-00d56e041900" configVersion="0b7f8d8e4968bf4db167bcb177266f5b00000000"/>
+		<Metadata name="CommonModule.РегламентныеЗаданияПереопределяемый.Module" id="ba6227ce-4e58-4bf3-8e14-00d56e041900.0" configVersion="ebebd3fb872f8a448801533bc82e414a00000000"/>
+		<Metadata name="CommonModule.РегламентныеЗаданияСервер" id="3e9cab44-62f0-4417-a7e3-264953df9d0e" configVersion="e9ee8cfe5ddc35439de8579688713df700000000"/>
+		<Metadata name="CommonModule.РегламентныеЗаданияСервер.Module" id="3e9cab44-62f0-4417-a7e3-264953df9d0e.0" configVersion="70024cd7d80df94e8baf14605af9e26a00000000"/>
+		<Metadata name="CommonModule.РегламентныеЗаданияСлужебный" id="f3e1c6ea-a4f8-45d1-b60f-35817feac9f5" configVersion="8f67a6adfe9fe34c8b0248fb50fdf28000000000"/>
+		<Metadata name="CommonModule.РегламентныеЗаданияСлужебный.Module" id="f3e1c6ea-a4f8-45d1-b60f-35817feac9f5.0" configVersion="5a7622b0747e6b449542ecb713c3718b00000000"/>
+		<Metadata name="CommonModule.СтандартныеПодсистемыБезопасныйРежим" id="6b471f38-4e65-44cf-9524-b4cda91cf5eb" configVersion="2135d66f8b721d42b75c3f4ccaa6033800000000"/>
+		<Metadata name="CommonModule.СтандартныеПодсистемыБезопасныйРежим.Module" id="6b471f38-4e65-44cf-9524-b4cda91cf5eb.0" configVersion="8ec75d1bb92c014cb167a716456b3cc100000000"/>
+		<Metadata name="CommonModule.СтандартныеПодсистемыВызовСервера" id="53673713-344c-474a-8a2a-ffe28ff254a5" configVersion="abfe1d175ac26f41bbbe42e1dc0c208100000000"/>
+		<Metadata name="CommonModule.СтандартныеПодсистемыВызовСервера.Module" id="53673713-344c-474a-8a2a-ffe28ff254a5.0" configVersion="0691f5a63bb4f041b27413d0483c78a800000000"/>
+		<Metadata name="CommonModule.СтандартныеПодсистемыГлобальный" id="74af47d0-eae8-486f-ac7e-7dcea32806dc" configVersion="7c010012dc78c240b32e69b2586db2f400000000"/>
+		<Metadata name="CommonModule.СтандартныеПодсистемыГлобальный.Module" id="74af47d0-eae8-486f-ac7e-7dcea32806dc.0" configVersion="163ead3dbfdafc4d811f7156b812e9a500000000"/>
+		<Metadata name="CommonModule.СтандартныеПодсистемыКлиент" id="f88b6b88-d568-43b5-bcc5-993a99623803" configVersion="6765b530176c954f9d2c221df7d9245700000000"/>
+		<Metadata name="CommonModule.СтандартныеПодсистемыКлиент.Module" id="f88b6b88-d568-43b5-bcc5-993a99623803.0" configVersion="0f405e9646a7bb4bab35fbf4717314cb00000000"/>
+		<Metadata name="CommonModule.СтандартныеПодсистемыКлиентПовтИсп" id="2438fc42-68dc-41bd-9745-93a479bb83c4" configVersion="6b7da69702a5e34289caf5e6890db5cb00000000"/>
+		<Metadata name="CommonModule.СтандартныеПодсистемыКлиентПовтИсп.Module" id="2438fc42-68dc-41bd-9745-93a479bb83c4.0" configVersion="ac7ff808c2ecb948a1d4b8c3bace8bc900000000"/>
+		<Metadata name="CommonModule.СтандартныеПодсистемыКлиентСервер" id="4da923ca-554b-49bb-b876-3752c4e6faa2" configVersion="fc2615bc856f8942862f0bdc8614380a00000000"/>
+		<Metadata name="CommonModule.СтандартныеПодсистемыКлиентСервер.Module" id="4da923ca-554b-49bb-b876-3752c4e6faa2.0" configVersion="1580038c39f95a4dab1c4d9387631e3500000000"/>
+		<Metadata name="CommonModule.СтандартныеПодсистемыПовтИсп" id="7e57eabe-aa1a-40c1-b0f0-c0e6effcf281" configVersion="e4709000e055b1409906412ef0e62f7100000000"/>
+		<Metadata name="CommonModule.СтандартныеПодсистемыПовтИсп.Module" id="7e57eabe-aa1a-40c1-b0f0-c0e6effcf281.0" configVersion="d463bea6b058bb459196bb06cedc6e0100000000"/>
+		<Metadata name="CommonModule.СтандартныеПодсистемыСервер" id="b3f8732a-d1f9-4583-8beb-61798f11a486" configVersion="00f4bf51f29935419d48cac80f2d7c0b00000000"/>
+		<Metadata name="CommonModule.СтандартныеПодсистемыСервер.Module" id="b3f8732a-d1f9-4583-8beb-61798f11a486.0" configVersion="dac1b1b250392d4ab4ff1759e2cbf95700000000"/>
+		<Metadata name="CommonModule.СтроковыеФункцииКлиентСервер" id="604c60f1-46f9-44ab-84f4-4db96730b1a3" configVersion="10fdab407122f24d80fa358d52f6f73200000000"/>
+		<Metadata name="CommonModule.СтроковыеФункцииКлиентСервер.Module" id="604c60f1-46f9-44ab-84f4-4db96730b1a3.0" configVersion="86eb885e9a080a43a67b2038c8e67e7d00000000"/>
+		<Metadata name="CommonTemplate.PinkRabbitMQ" id="546f4c53-f65b-44ce-9b7d-5d0aeec5ce16" configVersion="3685691ea9300e45a4b6069fb9dc23fb00000000"/>
+		<Metadata name="CommonTemplate.PinkRabbitMQ.Template" id="546f4c53-f65b-44ce-9b7d-5d0aeec5ce16.0" configVersion="2b22cb61cd9a9d4ead4ed0ee7a3e617c00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="306f4e04-0d5e-4377-b159-c7f6e0677411" configVersion="39cc181dfc7c2b409328e6c293bd808d00000000"/>
+		<Metadata name="Constant.ПортАдминкиRMQ" id="7427af9b-38a4-4c2b-a8e6-2936ac7ef549" configVersion="2831005f6c6bf8438490b3fca213f38b00000000"/>
+		<Metadata name="Constant.СерверRMQ" id="b0b6c82c-9cb2-4b78-a7d3-508386b163eb" configVersion="b63492af44c92e44828ef9f85c8fd32a00000000"/>
+		<Metadata name="Constant.СерверRMQ.ManagerModule" id="b0b6c82c-9cb2-4b78-a7d3-508386b163eb.1" configVersion="60f5a1e7908dac40a69c2022e7cffc4c00000000"/>
+		<Metadata name="Constant.СерверRMQ.ValueManagerModule" id="b0b6c82c-9cb2-4b78-a7d3-508386b163eb.0" configVersion="ed0872813ff96b44aee590b608d6fdcc00000000"/>
+		<Metadata name="DataProcessor.ОбработкаRabbitMQ" id="289c8879-2056-421b-acd5-92d4f76e90b7" configVersion="3ee8d5772a80cb45aaedb073ef96e9ec00000000"/>
+		<Metadata name="DataProcessor.ОбработкаRabbitMQ.Form.Форма" id="c64f5178-1117-4719-a2f2-62a1992effae" configVersion="4e08af07e35861409c8855124d1ab9e800000000"/>
+		<Metadata name="DataProcessor.ОбработкаRabbitMQ.Form.Форма.Form" id="c64f5178-1117-4719-a2f2-62a1992effae.0" configVersion="e2ee4c6a3d080d439f8055677285965a00000000"/>
+		<Metadata name="Enum.ВидыСостоянийОчередьВходящих" id="20d42baa-d48a-4a60-80d3-d7bd5c31665e" configVersion="a23ff440fae71f418f5b84d9d377f8fd00000000">
+			<Metadata name="Enum.ВидыСостоянийОчередьВходящих.EnumValue.ВРаботе" id="4f180f71-3ab2-47dd-abb2-d7548305f5a0"/>
+			<Metadata name="Enum.ВидыСостоянийОчередьВходящих.EnumValue.Обработан" id="718935c7-2ccd-49a0-a088-9a6e97d551cb"/>
+			<Metadata name="Enum.ВидыСостоянийОчередьВходящих.EnumValue.Ошибка" id="ba737707-bab9-4b1e-882d-7818b429b9e0"/>
+			<Metadata name="Enum.ВидыСостоянийОчередьВходящих.EnumValue.Новый" id="ddaceb7e-eae3-4247-a2d2-ddc5a659f2fe"/>
+		</Metadata>
+		<Metadata name="Enum.ВидыСостоянийОчередьИсходящих" id="5848ab79-c7d8-44c5-aa18-8248345f8b99" configVersion="5f1eba98f550d646a4ded254f9dc412a00000000">
+			<Metadata name="Enum.ВидыСостоянийОчередьИсходящих.EnumValue.Ошибка" id="4d3cb9ef-3685-4128-bf04-eb8742ebd61a"/>
+			<Metadata name="Enum.ВидыСостоянийОчередьИсходящих.EnumValue.Новый" id="7b2fabae-53e2-47c1-a251-859b04b74141"/>
+		</Metadata>
+		<Metadata name="Enum.УровниЛогирования" id="f48092b1-bbc9-47e3-821d-4f965284729c" configVersion="8fd3f41ca9757848b7160e047b92d6db00000000">
+			<Metadata name="Enum.УровниЛогирования.EnumValue.Ошибка" id="23ee687e-a8e1-4929-bcc5-120d57349992"/>
+			<Metadata name="Enum.УровниЛогирования.EnumValue.КритическаяОшибка" id="3646f45b-f728-4fb7-af06-6b90f8c88128"/>
+			<Metadata name="Enum.УровниЛогирования.EnumValue.Информация" id="6fadc70c-5479-4cb7-b26c-87044f063148"/>
+			<Metadata name="Enum.УровниЛогирования.EnumValue.Предупреждение" id="de58b543-dbdb-4a9d-93ad-30b581ac739f"/>
+		</Metadata>
+		<Metadata name="Enum.УровниЛогирования.ManagerModule" id="f48092b1-bbc9-47e3-821d-4f965284729c.0" configVersion="e1674511b103df429841657a5c6cba7f00000000"/>
+		<Metadata name="InformationRegister.RMQ_НастройкиПодключения" id="8400e40b-0059-41c5-bf6f-74d58c362c1b" configVersion="4e54e5d646de094a95f4a61e9f6f40a500000000">
+			<Metadata name="InformationRegister.RMQ_НастройкиПодключения.Dimension.ИмяПодключения" id="24e62a99-0244-46c6-adb3-74bef6b0e354"/>
+			<Metadata name="InformationRegister.RMQ_НастройкиПодключения.Resource.АдресХоста" id="2ed3630e-5c2d-49a3-b13f-84111614608d"/>
+			<Metadata name="InformationRegister.RMQ_НастройкиПодключения.Resource.Порт" id="838b2fcb-330d-4d8b-a52d-5cb552ba38e7"/>
+			<Metadata name="InformationRegister.RMQ_НастройкиПодключения.Resource.Пользователь" id="c0a49a3e-ab25-4d63-b156-c49759532f15"/>
+			<Metadata name="InformationRegister.RMQ_НастройкиПодключения.Resource.ВиртуальныйХост" id="e6015bf9-9810-4ec4-a376-080605e1f9cd"/>
+			<Metadata name="InformationRegister.RMQ_НастройкиПодключения.Resource.РазмерПакетаВыгрузки" id="ebf09319-9ca7-489b-992e-a577bc700d5f"/>
+			<Metadata name="InformationRegister.RMQ_НастройкиПодключения.Resource.Пароль" id="fca701ac-3134-4d40-964b-1836c96abfa7"/>
+		</Metadata>
+		<Metadata name="InformationRegister.RMQ_ОчередиКЗагрузке" id="c2fde072-4c87-43c4-b197-2cf097c5d69b" configVersion="f0a74a6536e7c14e92306236eafb238c00000000">
+			<Metadata name="InformationRegister.RMQ_ОчередиКЗагрузке.Resource.Активно" id="5a925b38-42b5-46f2-aac4-a20fb10d1fe9"/>
+			<Metadata name="InformationRegister.RMQ_ОчередиКЗагрузке.Dimension.ИмяПодключения" id="b62fad9d-39f0-4a37-86d6-0900ec95a209"/>
+			<Metadata name="InformationRegister.RMQ_ОчередиКЗагрузке.Dimension.ИмяОчереди" id="d545d7e8-4d0b-4742-a4f6-1659a189a104"/>
+		</Metadata>
+		<Metadata name="InformationRegister.RMQ_ОчередьВходящих" id="7f2efb3b-bdbc-47c7-92ae-67226acc6881" configVersion="6ffd6a95fdf36c418eab4d50be141b1d00000000">
+			<Metadata name="InformationRegister.RMQ_ОчередьВходящих.Dimension.Идентификатор" id="074f0ed9-1ac4-481c-a169-368815e627c2"/>
+			<Metadata name="InformationRegister.RMQ_ОчередьВходящих.Resource.ДанныеJSON" id="0ac7dd47-05d8-4570-95b9-aeb14cd9c20b"/>
+			<Metadata name="InformationRegister.RMQ_ОчередьВходящих.Resource.ТекстОшибки" id="9cc9d394-0ecb-45b6-82d1-6814088d1241"/>
+			<Metadata name="InformationRegister.RMQ_ОчередьВходящих.Resource.ДатаПолучения" id="ac37288f-3001-4e78-8ba9-8cacf6872617"/>
+			<Metadata name="InformationRegister.RMQ_ОчередьВходящих.Resource.Состояние" id="c462cc18-cb8b-4ed1-b3a9-ae74503f57c7"/>
+		</Metadata>
+		<Metadata name="InformationRegister.RMQ_ОчередьИсходящих" id="9451ccaa-583e-4fdf-8e64-260acaebe93b" configVersion="e3b6ef68328762418f9fb2b39174893a00000000">
+			<Metadata name="InformationRegister.RMQ_ОчередьИсходящих.Dimension.Идентификатор" id="0c6819f4-20a6-4814-b7e4-009c08daaced"/>
+			<Metadata name="InformationRegister.RMQ_ОчередьИсходящих.Resource.КоличествоПопыток" id="65481c31-90d2-4c6f-afef-2d280b53c47c"/>
+			<Metadata name="InformationRegister.RMQ_ОчередьИсходящих.Resource.ДанныеJSON" id="674a996f-8862-458f-9aa1-8efa47322cfc"/>
+			<Metadata name="InformationRegister.RMQ_ОчередьИсходящих.Resource.ТекстОшибки" id="6d6f4c0e-0678-4c1f-a4d3-26181ce2e3d9"/>
+			<Metadata name="InformationRegister.RMQ_ОчередьИсходящих.Resource.ИмяПодключения" id="82155633-12ab-4a22-8c22-24f10a385d00"/>
+			<Metadata name="InformationRegister.RMQ_ОчередьИсходящих.Resource.Состояние" id="94ce31bf-6bd0-4054-b54f-486b801ce2bc"/>
+			<Metadata name="InformationRegister.RMQ_ОчередьИсходящих.Resource.ИмяОчереди" id="98825d7b-1ba2-435a-807f-2eff52dbb3be"/>
+			<Metadata name="InformationRegister.RMQ_ОчередьИсходящих.Resource.ДатаСоздания" id="f8c0e5e4-5381-4b1a-9800-d87297768467"/>
+		</Metadata>
+		<Metadata name="InformationRegister.ЖурналЛогирования" id="2cfae3ff-eaeb-45a1-b0dd-9e8bee913a91" configVersion="173aa5c8502d9f42b5bd300ee4e1e6c600000000">
+			<Metadata name="InformationRegister.ЖурналЛогирования.Resource.Уровень" id="01efb795-8f26-48de-ba4d-f104671460b4"/>
+			<Metadata name="InformationRegister.ЖурналЛогирования.Resource.Количество" id="46a23e4d-d0c9-47e6-94b9-e55ad943ba70"/>
+			<Metadata name="InformationRegister.ЖурналЛогирования.Dimension.Пользователь" id="5e3123e4-2e18-49a1-b79d-dd3471ca5213"/>
+			<Metadata name="InformationRegister.ЖурналЛогирования.Dimension.Событие" id="6396f409-61ce-4bd3-8436-e8e39b837027"/>
+			<Metadata name="InformationRegister.ЖурналЛогирования.Attribute.ДатаСоздания" id="6fde96e2-1617-4ce4-b11e-4922ccd239ae"/>
+			<Metadata name="InformationRegister.ЖурналЛогирования.Dimension.Объект" id="70cc99b0-b5e8-486d-91ce-7cf78a06f62a"/>
+			<Metadata name="InformationRegister.ЖурналЛогирования.Attribute.Сообщение" id="8313b4eb-6058-4fe1-a9f1-3af330df8e7e"/>
+			<Metadata name="InformationRegister.ЖурналЛогирования.Attribute.ДопДанные" id="99cefd62-107a-4cc8-885b-fc38f6facd14"/>
+		</Metadata>
+		<Metadata name="InformationRegister.ЖурналЛогирования.AdditionalIndexes" id="2cfae3ff-eaeb-45a1-b0dd-9e8bee913a91.3" configVersion="b570fcdf96091740bd1ae699f8febcd900000000"/>
+		<Metadata name="InformationRegister.ЖурналЛогирования.Help" id="2cfae3ff-eaeb-45a1-b0dd-9e8bee913a91.0" configVersion="1d23e5afe9f0f7468e928c07afd3d17900000000"/>
+		<Metadata name="InformationRegister.ЖурналЛогирования.ManagerModule" id="2cfae3ff-eaeb-45a1-b0dd-9e8bee913a91.2" configVersion="f488996ff2163b46a1f040327f5ff60900000000"/>
+		<Metadata name="InformationRegister.ЖурналЛогирования.RecordSetModule" id="2cfae3ff-eaeb-45a1-b0dd-9e8bee913a91.1" configVersion="de919dc67b40934ea06a6d90a54fe2b900000000"/>
+		<Metadata name="Language.Русский" id="544441c9-b7bd-4c3e-9c80-7c6b62a1086a" configVersion="3b336ab3ab8acf419e3e99f3abec38d900000000"/>
+		<Metadata name="ScheduledJob.RMQ_ВыгрузкаИсходящихОчередей" id="291b1ebd-920e-475a-b488-6147c4739fe3" configVersion="649794984699984eab41ff01e5c4ccb300000000"/>
+		<Metadata name="ScheduledJob.RMQ_ВыгрузкаИсходящихОчередей.Schedule" id="291b1ebd-920e-475a-b488-6147c4739fe3.0" configVersion="6a04c3f2a5a4db40ae8a8a291510895b00000000"/>
+		<Metadata name="ScheduledJob.RMQ_ЗагрузкаВходящихОчередей" id="c3a683f2-7433-4d30-a62b-3626d9d8ef10" configVersion="9131b75a3e715845b18d1e17cf544acb00000000"/>
+		<Metadata name="ScheduledJob.RMQ_ЗагрузкаВходящихОчередей.Schedule" id="c3a683f2-7433-4d30-a62b-3626d9d8ef10.0" configVersion="32d90dfb56593240917e9c4792a7aa6300000000"/>
+		<Metadata name="ScheduledJob.RMQ_ОбработкаВходящейОчереди" id="fb00b5e5-0abc-4d38-b345-02b62e9a4f80" configVersion="e0eee20906456d40bd2c0b12f90ebdec00000000"/>
+		<Metadata name="ScheduledJob.RMQ_ОбработкаВходящейОчереди.Schedule" id="fb00b5e5-0abc-4d38-b345-02b62e9a4f80.0" configVersion="dbeeab6c5ee388428733d0fcc9da4f8500000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
